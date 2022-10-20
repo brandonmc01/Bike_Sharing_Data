@@ -32,7 +32,6 @@ Map showing top starting locations for bike rentals in NYC.
 
 
 ### Presentation:
-https://public.tableau.com/app/profile/brandon.castro2779/viz/BikeSharingData_16662367183380/NYCBikesPresentation#1
 
 
 ## Summary
