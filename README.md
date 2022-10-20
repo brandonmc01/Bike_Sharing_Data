@@ -31,8 +31,7 @@ Heatmap showing usage throughout the week sorted by gender.
 Map showing top starting locations for bike rentals in NYC.
 
 
-### Presentation:
-[Link](https://public.tableau.com/app/profile/brandon.castro2779/viz/BikeSharingData_16662410733380/NYCBikesPresentation2)
+### Presentation: [Link](https://public.tableau.com/app/profile/brandon.castro2779/viz/BikeSharingData_16662410733380/NYCBikesPresentation2)
 
 ## Summary
 
